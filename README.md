@@ -1,5 +1,3 @@
-# javascript-sonarqube-analysis-for-angular-calculater-app
-
 JavaScript Project SonarQube Analysis – Step-by-Step Guide
 1️⃣ Launch an EC2 Instance
 Launch an AWS EC2 t3.medium instance (2 vCPU, 4 GB RAM) with Ubuntu 22.04 LTS.
